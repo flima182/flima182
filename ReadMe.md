@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estou trabalhando atualmente com Ui Design<br>🌱 Estou aprendendo sobre Frontend e quero me especializar em Figma e Framer<br>💬 Quer perguntar algo?<br>
+🔭 Estou trabalhando atualmente com UX/Ui Design<br>🌱 Estou aprendendo sobre Frontend e quero me especializar em Figma<br>💬 Quer perguntar algo?<br>
 
 
 ## 🌐 Socials:
